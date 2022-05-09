@@ -1,0 +1,3 @@
+
+https://api.openweathermap.org/data/2.5/weather?q=Kolkata&appid=6a40ca6a9141db06185fe25dd589e122
+
